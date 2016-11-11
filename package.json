@@ -1,0 +1,12 @@
+{
+  "name": "beattime",
+  "version": "1.0.0",
+  "description": "Swatch Internet Beat Time in node.js",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/savardiego/beattime.git",
+    "type": "git"
+  },
+  "author": "savardiego",
+  "license": "MIT"
+}
